@@ -1,5 +1,6 @@
 {
   "name": "car-rental",
+  "homepage":"https://mallu9045.github.io/rantal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
